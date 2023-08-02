@@ -1,0 +1,9 @@
+<suite name = "my suite">
+    <tests name = "My tests">
+        <test name = "Test">
+            <classes>
+                <class name = "Tests.homePageTests"/>
+            </classes>
+        </test>
+    </tests>
+</suite>
